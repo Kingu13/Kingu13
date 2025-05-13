@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Name = "Jesper Wallén"
-Interests = ["Coding", "Problem Solving"]
-Languages = ["Python", "C# (.NET)"]
-OS = ["Ubuntu", "Debian", "Windows"]
+<p align="left">
+  <strong>Name</strong> "Jesper Wallén"<br>
+  <strong>Interests</strong> "Coding", "Problem Solving"<br>
+  <strong>Languages</strong> "Python", "C# (.NET)"<br>
+  <strong>OS</strong> "Ubuntu", "Debian", "Windows"
+</p>
+
